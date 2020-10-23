@@ -1,0 +1,32 @@
+[
+  {
+    "bgColor": "red",
+    "color": "white",
+    "category": "flowers",
+    "subCategories": ["a", "b", "c", "d"]
+  },
+  {
+    "bgColor": "green",
+    "color": "white",
+    "category": "books",
+    "subCategories": ["a", "b", "c", "d"]
+  },
+  {
+    "bgColor": "blue",
+    "color": "white",
+    "category": "fruits",
+    "subCategories": ["a", "b", "c", "d"]
+  },
+  {
+    "bgColor": "gold",
+    "color": "white",
+    "category": "sports",
+    "subCategories": ["a", "b", "c", "d"]
+  },
+  {
+    "bgColor": "#444",
+    "color": "white",
+    "category": "smiles",
+    "subCategories": ["a", "b", "c", "d"]
+  }
+]
