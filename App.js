@@ -1,6 +1,6 @@
 import React from 'react';
-import Animation1 from './animation1';
+import Animation2 from './animations/animation2';
 
 export default function App() {
-  return <Animation1 />;
+  return <Animation2 />;
 }

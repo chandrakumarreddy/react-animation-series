@@ -1,0 +1,38 @@
+[
+  {
+    "bgColor": "red",
+    "color": "white",
+    "category": "flowers",
+    "subCategories": ["apple", "bat", "cat", "dog"]
+  },
+  {
+    "bgColor": "green",
+    "color": "white",
+    "category": "books",
+    "subCategories": ["apple", "bat", "cat", "dog"]
+  },
+  {
+    "bgColor": "blue",
+    "color": "white",
+    "category": "fruits",
+    "subCategories": ["apple", "bat", "cat", "dog"]
+  },
+  {
+    "bgColor": "gold",
+    "color": "white",
+    "category": "sports",
+    "subCategories": ["apple", "bat", "cat", "dog"]
+  },
+  {
+    "bgColor": "#444",
+    "color": "white",
+    "category": "smiles",
+    "subCategories": ["apple", "bat", "cat", "dog"]
+  },
+  {
+    "bgColor": "pink",
+    "color": "white",
+    "category": "Drinks",
+    "subCategories": ["apple", "bat", "cat", "dog"]
+  }
+]
