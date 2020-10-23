@@ -3,30 +3,36 @@
     "bgColor": "red",
     "color": "white",
     "category": "flowers",
-    "subCategories": ["a", "b", "c", "d"]
+    "subCategories": ["apple", "bat", "cat", "dog"]
   },
   {
     "bgColor": "green",
     "color": "white",
     "category": "books",
-    "subCategories": ["a", "b", "c", "d"]
+    "subCategories": ["apple", "bat", "cat", "dog"]
   },
   {
     "bgColor": "blue",
     "color": "white",
     "category": "fruits",
-    "subCategories": ["a", "b", "c", "d"]
+    "subCategories": ["apple", "bat", "cat", "dog"]
   },
   {
     "bgColor": "gold",
     "color": "white",
     "category": "sports",
-    "subCategories": ["a", "b", "c", "d"]
+    "subCategories": ["apple", "bat", "cat", "dog"]
   },
   {
     "bgColor": "#444",
     "color": "white",
     "category": "smiles",
-    "subCategories": ["a", "b", "c", "d"]
+    "subCategories": ["apple", "bat", "cat", "dog"]
+  },
+  {
+    "bgColor": "pink",
+    "color": "white",
+    "category": "Drinks",
+    "subCategories": ["apple", "bat", "cat", "dog"]
   }
 ]
